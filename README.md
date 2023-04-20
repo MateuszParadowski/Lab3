@@ -1,2 +1,2 @@
 # Lab3
-Zadanie b)
+Zadania a) i b)
